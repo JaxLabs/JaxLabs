@@ -1,7 +1,3 @@
 - 👋 **Hi, I’m Jax**
 - 🔭 I’m a recent grad with a BS in informatics from the University of California Irvine
 - 🌱 I’m currently learning **UX research** and **UI design**.
-- ⚡ Things I love besides coding:
-    - Gaming on Steam 🎮
-    - Creating artwork 🎨
-    - Watching anime 📺
