@@ -1,3 +1,1 @@
 - 👋 **Hi, I’m Jax**
-- 🔭 I’m a graduate from the University of California Irvine with a BS in informatics
-- 🌱 I’m currently learning **UX research** and **UI design**.
