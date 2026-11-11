@@ -45,7 +45,7 @@ I design accessible, inclusive, playful experiences, and I love data and making 
 ![C++](https://img.shields.io/badge/C++-efc7c9?style=flat-square&logo=cplusplus&logoColor=111011)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-efc7c9?style=flat-square)
 
-### 🎮 Game lab
+### Projects
 
 | Project | What it is |
 | --- | --- |
