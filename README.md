@@ -1,5 +1,59 @@
-# Hi, I'm Jax 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="Layered paper folder tabs with a torn paper note reading Hi, I'm Jax!" width="100%" />
+</p>
 
-A Product designer and mixed-methods UX researcher and systems thinker with a passion for accessible, inclusive, playful experiences. I have a love for data and making fun things. 
+<p align="center">
+  <a href="https://jaxpowelldesign.com"><img src="https://img.shields.io/badge/JAXPOWELLDESIGN.COM-111011?style=for-the-badge&logo=googlechrome&logoColor=f9f7f6" alt="Portfolio" /></a>
+</p>
 
-[Portfolio](https://jaxpowelldesign.com)
+<details open>
+<summary><h3>About me ✂️</h3></summary>
+
+<table>
+<tr>
+<td width="64%" valign="top">
+
+**Product Designer** · UW MHCI+D (Cohort 13)
+
+Product designer and AI-native who prototypes in code. **4+ years** of design experience across healthcare, accessibility, and conservation.
+
+Right now I'm building **Bird Brain** (a full-stack RAG research repository) and a witch-themed incremental game with all-original art. My playground: accessible and inclusive design, gamification, audio-first experiences, healthcare UX, and game development.
+
+</td>
+<td width="36%" align="center" valign="middle">
+  <img src="https://framerusercontent.com/images/M4vBnOu49IzrHHcItGl03AQSS2U.png?scale-down-to=512" alt="Ink illustration of Jax leaning on a desk with a coffee cup" width="220" />
+</td>
+</tr>
+</table>
+
+</details>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>
+
+### 🧰 Tools I make with
+
+![Figma](https://img.shields.io/badge/Figma-d0d7be?style=flat-square&logo=figma&logoColor=111011)
+![Next.js](https://img.shields.io/badge/Next.js-d0d7be?style=flat-square&logo=nextdotjs&logoColor=111011)
+![TypeScript](https://img.shields.io/badge/TypeScript-cdd5d7?style=flat-square&logo=typescript&logoColor=111011)
+![JavaScript](https://img.shields.io/badge/JavaScript-cdd5d7?style=flat-square&logo=javascript&logoColor=111011)
+![Python](https://img.shields.io/badge/Python-eadab7?style=flat-square&logo=python&logoColor=111011)
+![FastAPI](https://img.shields.io/badge/FastAPI-eadab7?style=flat-square&logo=fastapi&logoColor=111011)
+![Ollama](https://img.shields.io/badge/Ollama-eadab7?style=flat-square&logo=ollama&logoColor=111011)
+![SQLite](https://img.shields.io/badge/SQLite-efc7c9?style=flat-square&logo=sqlite&logoColor=111011)
+![C++](https://img.shields.io/badge/C++-efc7c9?style=flat-square&logo=cplusplus&logoColor=111011)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-efc7c9?style=flat-square)
+
+### 🎮 Game lab
+
+| Project | What it is |
+| --- | --- |
+| [renpy-inventory-system](https://github.com/JaxLabs/renpy-inventory-system) | Inventory system for Ren'Py visual novels |
+| [TowerOfHanoiFinal](https://github.com/JaxLabs/TowerOfHanoiFinal) | Four-disk Tower of Hanoi with visuals and story, built in C++/SFML |
+| [python-game-hub](https://github.com/JaxLabs/python-game-hub) | Console and tkinter mini-games |
+| [tree-generator](https://github.com/JaxLabs/tree-generator) | Recursive random tree generator in JavaScript |
+
+<p align="center">
+  <img src="assets/divider.svg" alt="" width="100%" />
+</p>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+<defs>
+<filter id="grain" x="0" y="0" width="100%" height="100%">
+  <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" seed="4" result="n"/>
+  <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .09 0"/>
+  <feComposite in2="SourceGraphic" operator="in"/>
+</filter>
+<filter id="torn" x="-5%" y="-10%" width="110%" height="120%">
+  <feTurbulence type="fractalNoise" baseFrequency=".045" numOctaves="2" seed="9" result="t"/>
+  <feDisplacementMap in="SourceGraphic" in2="t" scale="7" xChannelSelector="R" yChannelSelector="G"/>
+  <feDropShadow dx="0" dy="3" stdDeviation="2.5" flood-color="#3a3326" flood-opacity=".22"/>
+</filter>
+<filter id="shadow" x="-5%" y="-10%" width="110%" height="130%">
+  <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#3a3326" flood-opacity=".2"/>
+</filter>
+</defs>
+<rect width="1200" height="340" rx="18" fill="#ecebe4"/>
+<rect width="1200" height="340" rx="18" fill="#ecebe4" filter="url(#grain)"/>
+<path filter="url(#shadow)" fill="#efc7c9" d="M70 74 Q70 60 84 60 L912 60 Q924 60 932 70 L944 82 L1116 82 Q1130 82 1130 96 L1130 296 Q1130 310 1116 310 L84 310 Q70 310 70 296Z"/>
+<path filter="url(#shadow)" fill="#eadab7" d="M55 99 Q55 85 69 85 L657 85 Q669 85 677 95 L689 107 L1131 107 Q1145 107 1145 121 L1145 311 Q1145 325 1131 325 L69 325 Q55 325 55 311Z"/>
+<path filter="url(#shadow)" fill="#cdd5d7" d="M40 124 Q40 110 54 110 L402 110 Q414 110 422 120 L434 132 L1146 132 Q1160 132 1160 146 L1160 311 Q1160 325 1146 325 L54 325 Q40 325 40 311Z"/>
+<path filter="url(#shadow)" fill="#d0d7be" d="M25 149 Q25 135 39 135 L167 135 Q179 135 187 145 L199 157 L1161 157 Q1175 157 1175 171 L1175 321 Q1175 335 1161 335 L39 335 Q25 335 25 321Z"/>
+<rect x="25" y="157" width="1150" height="164" fill="#d0d7be" filter="url(#grain)"/>
+<rect x="265" y="178" width="670" height="120" fill="#f9f7f6" filter="url(#torn)"/>
+<rect x="265" y="178" width="670" height="120" fill="#f9f7f6" filter="url(#grain)" opacity=".9"/>
+<text x="600" y="250" text-anchor="middle" font-family="'Libre Baskerville', Georgia, 'Times New Roman', serif" font-style="italic" font-size="58" fill="#111011">Hi, I’m Jax!</text>
+<text x="600" y="282" text-anchor="middle" font-family="Figtree, 'Helvetica Neue', Arial, sans-serif" font-size="16" letter-spacing="2.6" fill="#111011" opacity=".75">PRODUCT DESIGNER · AI-NATIVE · PROTOTYPES IN CODE</text>
+</svg>
