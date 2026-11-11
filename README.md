@@ -6,7 +6,7 @@
   <a href="https://jaxpowelldesign.com"><img src="https://img.shields.io/badge/JAXPOWELLDESIGN.COM-111011?style=for-the-badge&logo=googlechrome&logoColor=f9f7f6" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jax-powell/"><img src="https://img.shields.io/badge/LINKEDIN-111011?style=for-the-badge&logo=linkedin&logoColor=f9f7f6" alt="LinkedIn" /></a>
   <a href="mailto:jaxpowell20@gmail.com"><img src="https://img.shields.io/badge/GMAIL-111011?style=for-the-badge&logo=gmail&logoColor=f9f7f6" alt="Gmail" /></a>
-  <a href="https://drive.google.com/file/d/1yIY8BC27Aj8Dc3QZkmMX583vrEHax3en/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-b04826?style=for-the-badge&logo=readthedocs&logoColor=f9f7f6" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1yIY8BC27Aj8Dc3QZkmMX583vrEHax3en/view?usp=sharing"><img src="https://img.shields.io/badge/RESUME-111011?style=for-the-badge&logo=readthedocs&logoColor=f9f7f6" alt="Resume" /></a>
 </p>
 
 <details open>
