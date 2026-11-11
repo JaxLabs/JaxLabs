@@ -21,7 +21,7 @@ Right now I'm building **Bird Brain** (a full-stack RAG research repository) and
 
 </td>
 <td width="36%" align="center" valign="middle">
-  <img src="https://framerusercontent.com/images/M4vBnOu49IzrHHcItGl03AQSS2U.png?scale-down-to=512" alt="Ink illustration of Jax leaning on a desk with a coffee cup" width="220" />
+  <img src="assets/portrait.png" alt="Ink illustration of Jax leaning on a desk with a coffee cup" width="220" />
 </td>
 </tr>
 </table>
