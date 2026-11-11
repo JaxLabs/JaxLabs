@@ -13,7 +13,7 @@
 <tr>
 <td width="64%" valign="top">
 
-**Product Designer** · UW MHCI+D (Cohort 13)
+**Product Designer**
 
 Product designer and AI-native who prototypes in code. **4+ years** of design experience across healthcare, accessibility, and conservation.
 
