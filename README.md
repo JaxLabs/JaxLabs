@@ -17,7 +17,7 @@
 
 Product designer and AI-native who prototypes in code. **4+ years** of design experience across healthcare, accessibility, and conservation.
 
-Right now I'm building **Bird Brain** (a full-stack RAG research repository) and a witch-themed incremental game with all-original art. My playground: accessible and inclusive design, gamification, audio-first experiences, healthcare UX, and game development.
+I design accessible, inclusive, playful experiences, and I love data and making fun things. Focus areas: inclusive design, gamification, audio-first experiences, healthcare UX, and game development.
 
 </td>
 <td width="36%" align="center" valign="middle">
